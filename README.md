@@ -1,6 +1,7 @@
 # HUT-RI-Card
 
-Kartu ucapan selamat hari kemerdekaan Indonesia ke 76.
+Kartu ucapan selamat hari kemerdekaan Indonesia ke 77.<br>
+<code> Pulih Lebih Cepat, Bangkit Lebih Kuat </code>
 
 ## Getting Started
 
