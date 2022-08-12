@@ -90,7 +90,7 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "online.meowcorp.sch.cards.hut_ri_card" "\0"
-            VALUE "FileDescription", "Kartu ucapan selamat hari kemerdekaan Indonesia ke 76." "\0"
+            VALUE "FileDescription", "Kartu ucapan selamat hari kemerdekaan Indonesia ke 77." "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "hut_ri_card" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2021 online.meowcorp.sch.cards.hut_ri_card. All rights reserved." "\0"
